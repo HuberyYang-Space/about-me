@@ -2,7 +2,7 @@
   "name": "about-me",
   "type": "module",
   "version": "1.0.0",
-  "packageManager": "pnpm@10.28.2",
+  "packageManager": "pnpm@11.22.0",
   "description": "About me.",
   "author": "Hubery Yang",
   "license": "MIT",
