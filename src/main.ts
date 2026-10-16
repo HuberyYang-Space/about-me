@@ -35,9 +35,9 @@ let timer: any
 
   // navigater
   const nav_react = document.getElementById('link_react') as HTMLElement
-  nav_react.onclick = () => window.open('https://huberyyang.site/', '_self')
+  nav_react.onclick = () => window.open('https://react.huberyyang.site/', '_self')
   const nav_vue = document.getElementById('link_vue') as HTMLElement
-  nav_vue.onclick = () => window.open('https://huberyyang.site:85/', '_self')
+  nav_vue.onclick = () => window.open('https://vue3.huberyyang.site/', '_self')
 
   // copy mail
   const copy = document.querySelectorAll('.mail') as any
